@@ -1,4 +1,4 @@
-# Car Parking D assignment
+# Car Parking assignment
 
 Steps to run :
 1. python -m venv vnev
