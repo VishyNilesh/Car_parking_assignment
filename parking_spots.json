@@ -1,0 +1,14 @@
+[
+    {
+        "spot_id": 1,
+        "latitude": 18.5204,
+        "longitude": 73.8567,
+        "price_per_hour": 5
+    },
+    {
+        "spot_id": 2,
+        "latitude": 18.5167,
+        "longitude": 73.8562,
+        "price_per_hour": 8
+    }
+]

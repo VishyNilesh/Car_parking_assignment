@@ -1,0 +1,12 @@
+[
+    {
+        "parking_spot": {
+            "spot_id": 2,
+            "latitude": 18.5167,
+            "longitude": 73.8562,
+            "price_per_hour": 8
+        },
+        "hours": 2,
+        "timestamp": "2023-07-29 10:30:00"
+    }
+]
