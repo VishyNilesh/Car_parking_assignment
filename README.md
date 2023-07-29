@@ -5,6 +5,7 @@ Steps to run :
 2. source venv/bin/activate
 3. pip install -r requirements.txt
 4. python3 app.py
+5. python test.py
 
 
 Steps to test :
